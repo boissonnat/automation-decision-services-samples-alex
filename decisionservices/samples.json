@@ -1,11 +1,209 @@
 {
   "GettingStarted": {
     "displayName": "Getting started",
-    "description": "Learn how to build a decision service.",
+    "description": "Learn how to build an automation.",
     "type": "tutorials",
     "nbProjects": 1,
     "level": 0,
     "iconName": "Education",
     "iconColor": "teal"
+  },
+  "Task-models": {
+    "displayName": "Task models",
+    "description": "Learn the basics of task model through practical example.",
+    "type": "tutorials",
+    "nbProjects": 1,
+    "level": 0,
+    "iconName": "Education",
+    "iconColor": "warm-gray"
+  },
+  "Rule-policies": {
+    "displayName": "Rule policies",
+    "description": "Learn the basics of rule policies through practical example.",
+    "type": "tutorials",
+    "nbProjects": 1,
+    "level": 0,
+    "iconName": "Education",
+    "iconColor": "warm-gray"
+  },
+  "Decision-tables": {
+    "displayName": "Decision tables",
+    "description": "Learn the basics of decision table through practical example.",
+    "type": "tutorials",
+    "nbProjects": 1,
+    "level": 0,
+    "iconName": "Education",
+    "iconColor": "warm-gray"
+  },
+  "Decision-models": {
+    "displayName": "Decision models",
+    "description": "Learn the basics of decision model through practical example.",
+    "type": "tutorials",
+    "nbProjects": 1,
+    "level": 0,
+    "iconName": "Education",
+    "iconColor": "warm-gray"
+  },
+  "Data-management": {
+    "displayName": "Data management",
+    "description": "Learn the basics of data management through practical example.",
+    "type": "tutorials",
+    "nbProjects": 1,
+    "level": 0,
+    "iconName": "Education",
+    "iconColor": "warm-gray"
+  },
+  "Business-rules": {
+    "displayName": "Business rules",
+    "description": "Learn the basics of business rule through practical example.",
+    "type": "tutorials",
+    "nbProjects": 1,
+    "level": 0,
+    "iconName": "Education",
+    "iconColor": "warm-gray"
+  },
+  "Customer-retention": {
+    "displayName": "Telecom / Customer retention",
+    "description": "Determine the best offer to make to customers to reduce churn rate.",
+    "type": "business",
+    "nbProjects": 1,
+    "level": 2,
+    "iconName": "PhoneFilled",
+    "iconColor": "red"
+  },
+  "Transparent-ML-retention": {
+    "displayName": "Telecom / Transparent ML retention",
+    "description": "Determine the best offer to make to customers to reduce churn rate.",
+    "type": "business",
+    "nbProjects": 1,
+    "level": 2,
+    "iconName": "PhoneFilled",
+    "iconColor": "red"
+  },
+  "Conseil-du-jour": {
+    "displayName": "Conseil du jour",
+    "description": "Décision en français.",
+    "type": "localization",
+    "nbProjects": 1,
+    "level": 0,
+    "iconName": "Education",
+    "iconColor": "blue"
+  },
+  "Shopping-cart": {
+    "displayName": "Retail / Shopping cart",
+    "description": "Calculate loyalty discount and shopping cart total.",
+    "type": "business",
+    "nbProjects": 1,
+    "level": 1,
+    "iconName": "ShoppingCart",
+    "iconColor": "cyan"
+  },
+  "Loyalty-program": {
+    "displayName": "Retail / Loyalty program",
+    "description": "Calculate loyalty discount and shopping cart total.",
+    "type": "business",
+    "nbProjects": 1,
+    "level": 1,
+    "iconName": "ShoppingCart",
+    "iconColor": "cyan"
+  },
+  "Panier-de-e-commerce": {
+    "displayName": "Panier de e-commerce",
+    "description": "Décision en français.",
+    "type": "localization",
+    "nbProjects": 1,
+    "level": 0,
+    "iconName": "Education",
+    "iconColor": "blue"
+  },
+  "MachineLearningQuick": {
+    "displayName": "Machine learning quick tutorial - Loan approval",
+    "description": "Import a machine learning model (PMML format), and store and invoke it through Open Prediction Service.",
+    "type": "tutorials",
+    "nbProjects": 1,
+    "level": 0,
+    "iconName": "WatsonMachineLearning",
+    "iconColor": "yellow"
+  },
+  "Portuguese": {
+    "displayName": "Brazilian Portuguese - Português brasileiro",
+    "description": "Decisões em português brasileiro.",
+    "type": "localization",
+    "nbProjects": 1,
+    "level": 0,
+    "iconName": "Education",
+    "iconColor": "blue"
+  },
+  "German": {
+    "displayName": "German - Deutsch",
+    "description": "Entscheidungen in deutscher Sprache.",
+    "type": "localization",
+    "nbProjects": 1,
+    "level": 0,
+    "iconName": "Education",
+    "iconColor": "blue"
+  },
+  "Italian": {
+    "displayName": "Italian - Italiano",
+    "description": "Decisioni in italiano.",
+    "type": "localization",
+    "nbProjects": 1,
+    "level": 0,
+    "iconName": "Education",
+    "iconColor": "blue"
+  },
+   "Japanese": {
+    "displayName": "Japanese - 日本語",
+    "description": "日本語の意思決定",
+    "type": "localization",
+    "nbProjects": 1,
+    "level": 0,
+    "iconName": "Education",
+    "iconColor": "blue"
+  },
+  "Chinese": {
+    "displayName": "Simplified Chinese - 简体中文",
+    "description": "用简体中文写的决定",
+    "type": "localization",
+    "nbProjects": 1,
+    "level": 0,
+    "iconName": "Education",
+    "iconColor": "blue"
+  },
+  "Spanish": {
+    "displayName": "Spanish - Español",
+    "description": "Decisiones en Español.",
+    "type": "localization",
+    "nbProjects": 1,
+    "level": 0,
+    "iconName": "Education",
+    "iconColor": "blue"
+  },
+  "Pricing": {
+    "displayName": "Pricing",
+    "description": "Calculate shipping price after applicable discount.",
+    "type": "business",
+    "nbProjects": 1,
+    "level": 1,
+    "iconName": "Money",
+    "iconColor": "cool-gray"
+  },
+  "Commissions": {
+    "displayName": "Commissions",
+    "description": "Calculate sales commissions based on compensation policies.",
+    "type": "business",
+    "nbProjects": 1,
+    "level": 0,
+    "iconName": "Receipt",
+    "iconColor": "magenta"
+  },
+  "SalarySuggestions": {
+    "displayName": "Salary Suggestions",
+    "description": "Salary suggestions.",
+    "type": "business",
+    "nbProjects": 1,
+    "level": 0,
+    "iconName": "Receipt",
+    "iconColor": "red"
   }
 }
